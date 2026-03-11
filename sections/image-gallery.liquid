@@ -27,7 +27,16 @@
         class="image-gallery__grid image-gallery__grid--{{ section.settings.columns_desktop }}"
         role="list"
       >
+        {%- liquid
+          assign images_to_show = section.settings.images_to_show
+          if images_to_show == 0
+            assign images_to_show = section.blocks.size
+          endif
+        -%}
         {%- for block in section.blocks -%}
+          {%- if forloop.index > images_to_show -%}
+            {%- continue -%}
+          {%- endif -%}
           <li
             class="image-gallery__item image-gallery__item--{{ section.settings.image_ratio }}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
             {{ block.shopify_attributes }}
@@ -106,12 +115,6 @@
               <polyline points="9 6 15 12 9 18"></polyline>
             </svg>
           </button>
-
-          <div class="image-gallery-lightbox__counter">
-            <span class="image-gallery-lightbox__counter-current">1</span>
-            /
-            <span class="image-gallery-lightbox__counter-total">{{ section.blocks.size }}</span>
-          </div>
         </div>
       </image-gallery-lightbox>
     {%- endif -%}
@@ -156,6 +159,16 @@
       ],
       "default": "3",
       "label": "Desktop columns"
+    },
+    {
+      "type": "range",
+      "id": "images_to_show",
+      "min": 0,
+      "max": 20,
+      "step": 1,
+      "label": "Images to show in grid",
+      "info": "0 shows all. The rest are only visible in the lightbox.",
+      "default": 0
     },
     {
       "type": "select",
