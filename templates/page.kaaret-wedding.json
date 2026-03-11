@@ -1,0 +1,995 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "multicolumn_izAEzF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_rfKeUA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8035_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LPiTcb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1416_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rQzxnC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5261_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rPzV6U": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3886_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_rfKeUA",
+        "column_LPiTcb",
+        "column_rQzxnC",
+        "column_rPzV6U"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "slideshow_Yc4QFB": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_JHkNJi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Svatba_Kocendovi9762880x1620.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        },
+        "slide_6qVpJb": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/0000198500102880x1620.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "background-1"
+          }
+        },
+        "slide_T3GeUQ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/Katerina_FAJMON_wedding_photographer-66522880x1620.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "background-1"
+          }
+        },
+        "slide_tPpgDT": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/240608-tereza-stepan-_R0506232880x1620.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "background-1"
+          }
+        },
+        "slide_JabJeV": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_03102880x1620_c3b21d7c-dd21-43dc-a566-a289eb44f827.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_JHkNJi",
+        "slide_6qVpJb",
+        "slide_T3GeUQ",
+        "slide_tPpgDT",
+        "slide_JabJeV"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_Ahm4mK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wKXM9V": {
+          "type": "heading",
+          "settings": {
+            "heading": "Weding jewelry",
+            "heading_size": "h1"
+          }
+        },
+        "text_bKfTra": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When it comes to wedding jewelry, you should definitely have something special for your big day — and no, I don't just mean the wedding rings! </p><p>You can have your Kaaret custom wedding jewelry made to match your personality, mood, dress or the vision board you probably already have. I work with vintage, secondhand and deadstock materials, including freshwater pearls, silk and glass beads, which I combine with stainless steel components and other materials. Read on and discover the path to your ideal piece. </p><p></p><h4>Want your wedding jewelry from Kaaret?</h4>"
+          }
+        },
+        "button_MeUERR": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get in touch",
+            "button_link": "#contact",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wKXM9V",
+        "text_bKfTra",
+        "button_MeUERR"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn_yrnVaz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_E8kgAk": {
+          "type": "column",
+          "settings": {
+            "title": "1. Bridal jewelry",
+            "text": "<p>It might be the main feature of the whole look or simply a small cherry on top. Sparkly, versatile, single piece or a jewelry set, but most importantly, it should speak your name. I can design an original piece just for you, or alter some of the Kaaret products.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kQbgAp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/000019850039_kopiebw2048x2560_0f8342c8-1767-4054-9e68-28fa438dbc2e.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DhGPPe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_06132048x2560_60ccf4ea-4f90-4c3d-b6a4-4af6247faad8.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xM34BT": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_9827_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_E8kgAk",
+        "column_kQbgAp",
+        "column_DhGPPe",
+        "column_xM34BT"
+      ],
+      "settings": {
+        "title": "What kind of wedding jewelry you can get",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_HXrTwm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JBHxdV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/img_662048x2560_d8265cb9-e945-490e-b54d-cae11673cd67.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hqXaXW": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_14012048x2560_9206f1fe-c027-4ff3-8189-c1b865fd60b6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FgapNT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/443A3184edit2048x2560.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aYrmyy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/000030500014edit_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JBHxdV",
+        "column_hqXaXW",
+        "column_FgapNT",
+        "column_aYrmyy"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_3HzLCH": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_iEYpJA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7302_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bGmKXE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ab6a0602-894c-4cb3-a849-60d9ac5df154_22048x2560_6913ba3e-5970-470c-bf74-900691e27ea6.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_b9JAEi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/PIKI398_DSCF6484_AlesKral2048x2560.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Ji4847": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/VaM_0722048x2560_7db49319-4529-4938-8450-1a2f6fecd59b.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_iEYpJA",
+        "column_bGmKXE",
+        "column_b9JAEi",
+        "column_Ji4847"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_H7GezD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_mTah8n": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_03082048x2560_70f36e1d-136a-4be2-83b4-dd2c9ef8ace1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_htdH3e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Svatba_Kocendovi9872048x2560.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fVtPMM": {
+          "type": "column",
+          "settings": {
+            "title": "2. Matching pieces",
+            "text": "<p>For your partner, mum or your bridesmaids gang! It can be a statement matching piece of jewelry. Or it can be a small thing you give to your girls before the wedding. Either way, it will serve as a wearable memory for your loved ones.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_mTah8n",
+        "column_htdH3e",
+        "column_fVtPMM"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_XUEd7t": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kEJbMK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/443A3111edit2048x2560.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bbK6Vb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSCF62352048x2560.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iYyBqx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/57952CE4-A052-486E-B1F1-17F0A8C17C9D_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_M7Kktd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/000030500016edit2048x2560_080e67e9-a5b5-47aa-a232-bdba9a27d9c3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HAp8rQ": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_53112048x2560_b7ba9070-15b7-44cb-a7a6-2b6f4f45d799.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_kEJbMK",
+        "column_bbK6Vb",
+        "column_iYyBqx",
+        "column_M7Kktd",
+        "column_HAp8rQ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_bbymMV": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_YnxTTg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "You have the idea for your jewelry... or not yet.",
+            "icon": "chat_bubble",
+            "row_content": "<p>The easiest way is for you to contact me via the form, email or Kaaret Instagram. If you already know what you would like, please provide as much information as possible. Alternatively, you can share your mood board, photos or a picture of your dress. However, if you are only sure about wanting bridal jewelry, that is totally fine, I can help you with your vision later. You can also include the date of your wedding.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_zNiwY6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Taking the first steps towards your wedding jewelry",
+            "icon": "star",
+            "row_content": "<p>In this part, we talk more about your preferences and start to create some ideas for your jewelry. It is best to visit my studio so that we can discuss everything in person. I can show you the materials I have available, take your measurements, and show you which way we could go in the design process.</p><p>If for any reason you can't make it to the studio, we can have an online call or keep the conversation via email or chat. By the end of this phase, we will have a rough idea of what you would like your wedding jewelry to look like, as well as an estimated budget.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_GwfytL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "We have the idea! Now let me create it for you!",
+            "icon": "clipboard",
+            "row_content": "<p>In some cases, we decide the final design in the previous step, but if not, I will let you know when I come up with the final design for you to approve, including any new details (e.g. new material, additional costs, etc.). Once you have approved it, I will start creating.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_7GFRrR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "We're halfway there!",
+            "icon": "stopwatch",
+            "row_content": "<p>During the process, I will send you quick updates on your new piece (e.g. a photo of one earring before I start creating the other one). Please note that some pieces require an additional visit from you to try them on, so that I can check the fit and make any necessary adjustments.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_zxRdBx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Completing your jewelry",
+            "icon": "check_mark",
+            "row_content": "<p>Now it is time for me to finish your piece. I will send you a photo of the completed design and confirm any additional changes and the final budget, after which you can come and pick it up.</p><p> If your jewelry is more like a bolero jacket, body harness or similar more complicated piece of jewelry, it is best to come for one final fitting, preferably with your wedding dress, to ensure everything fits perfectly. If it does, you will now leave with your wedding jewelry. If not, I will do the last touch-ups. I will then let you know when it is ready for you.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_whyRii": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "It is ready!",
+            "icon": "heart",
+            "row_content": "<p>I will let you know when your piece is ready so you can come and pick it up. In some cases, I can also ship your order; however, this is only possible for certain types of custom pieces. </p><p>If you need help styling your piece, I will give you tips on how to do it properly. You can also bring anyone who will be helping you get ready on your big day, so they know what to do, too.</p><p>And that's it! I hope you will love your new bridal piece!</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_YnxTTg",
+        "collapsible_row_zNiwY6",
+        "collapsible_row_GwfytL",
+        "collapsible_row_7GFRrR",
+        "collapsible_row_zxRdBx",
+        "collapsible_row_whyRii"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "So how does it work?",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_zENJYY": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "bridal-jewelry",
+        "products_to_show": 4,
+        "title": "When yesterday was already too late...",
+        "heading_size": "h2",
+        "description": "<p>No time for custom jewelry? These pieces might be just right for your big day.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": true,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Your dream wedding jewellery is waiting to be created!",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_Q7AMM6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BeWqbK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/062048x2560.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BgjxFN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/000022400016editbw2048x2560_5f365f72-3f55-42b6-9609-54b834429dab.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xtzmHz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/E40A4456_fotilAdamMracek2048x2560.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4FDRLq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Katerina_FAJMON_wedding_photographer-61092048x2560.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_BeWqbK",
+        "column_BgjxFN",
+        "column_xtzmHz",
+        "column_4FDRLq"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_wAgPwh": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6JzM7G": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/PIKI61_DSC08868_AlesKral2048x2560_8a00e0d2-7d75-4044-abb4-e8d926c24538.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_J8KJPR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7554_20mpx-4x5_0f4aab19-c150-41aa-acc5-6485782d43cf.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qkRqYw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_72122048x2560_89d1112b-a6aa-4472-9453-6979d5652ca3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EEegez": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/0000198500102048x2560.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_6JzM7G",
+        "column_J8KJPR",
+        "column_qkRqYw",
+        "column_EEegez"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_K7AXg8": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_t77aRA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_30372048x2560_09bacf5e-35a7-430b-aa9e-e03f7bc03567.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QtMWqg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/VaM_0702048x2560_afbffe33-22f8-47bf-83be-56304dcb2cc3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aWfciD": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7948_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BaBTqj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/R1-02790-0036_2_edit_full-size_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_t77aRA",
+        "column_QtMWqg",
+        "column_aWfciD",
+        "column_BaBTqj"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_f6fMXC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_kLaLX4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_dVxaiR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_qAWN4y": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_kLaLX4",
+        "text_dVxaiR",
+        "button_qAWN4y"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_CYE9EA": {
+      "type": "rich-text",
+      "blocks": {
+        "text_qnyV8q": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Photo credits: Kaaret (Klára Dudáková), Kateřina Fajmon, Anežka Pithartová, Anna Marie Křížová, Aneta Zenkerová, Eva Výsmeková, Markéta Zelenková, Natálie Hofmanová, Adam Mráček, Aleš Král</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_qnyV8q"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "multicolumn_izAEzF",
+    "slideshow_Yc4QFB",
+    "main",
+    "rich_text_Ahm4mK",
+    "multicolumn_yrnVaz",
+    "multicolumn_HXrTwm",
+    "multicolumn_3HzLCH",
+    "multicolumn_H7GezD",
+    "multicolumn_XUEd7t",
+    "collapsible_content_bbymMV",
+    "featured_collection_zENJYY",
+    "form",
+    "multicolumn_Q7AMM6",
+    "multicolumn_wAgPwh",
+    "multicolumn_K7AXg8",
+    "image_with_text_f6fMXC",
+    "rich_text_CYE9EA"
+  ]
+}

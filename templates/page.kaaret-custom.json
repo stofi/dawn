@@ -1,0 +1,609 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "multicolumn_izAEzF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_rfKeUA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8035_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LPiTcb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1416_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rQzxnC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5261_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rPzV6U": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3886_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_rfKeUA",
+        "column_LPiTcb",
+        "column_rQzxnC",
+        "column_rPzV6U"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_Yc4QFB": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_JHkNJi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/443A0242edit_sirka_3x2_20mpx.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        },
+        "slide_JabJeV": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8564_20mpx16x9.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        },
+        "slide_T3GeUQ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3853_20mpx16x9.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "background-1"
+          }
+        },
+        "slide_6qVpJb": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/DSC00593_edit_full-size_20mpx16x9.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "background-1"
+          }
+        },
+        "slide_tPpgDT": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_9827_20mpx16x9.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "slide_JHkNJi",
+        "slide_JabJeV",
+        "slide_T3GeUQ",
+        "slide_6qVpJb",
+        "slide_tPpgDT"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
+    },
+    "multicolumn_yrnVaz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_E8kgAk": {
+          "type": "column",
+          "settings": {
+            "title": "Custom piece",
+            "text": "<p>Unique piece based on your ideas and preferences. You can be involved in picking every bead or just tell me about the mood of your desired piece.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kQbgAp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5246_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DhGPPe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6188_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xM34BT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9827_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_E8kgAk",
+        "column_kQbgAp",
+        "column_DhGPPe",
+        "column_xM34BT"
+      ],
+      "settings": {
+        "title": "What kind of custom jewelry you can get",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_H7GezD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_mTah8n": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2187_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_htdH3e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0199_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LWy4zG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8324_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fVtPMM": {
+          "type": "column",
+          "settings": {
+            "title": "Customized Kaaret product",
+            "text": "<p>Whether you just want to change a particular available Kaaret piece a bit, e.g. color, length, size, components, add more pearls or symplify the design.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_mTah8n",
+        "column_htdH3e",
+        "column_LWy4zG",
+        "column_fVtPMM"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_xGhyLq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4JtahG": {
+          "type": "column",
+          "settings": {
+            "title": "Special occasion",
+            "text": "<p>Getting married or attending a special occasion? Struggling to find the perfect piece of jewelry to match your outfit? Let's create an unforgettable piece that reflects your style and personality.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_crPMJQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC00593_edit_full-size_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6zwNty": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_6746_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iLQzyQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1417_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4JtahG",
+        "column_crPMJQ",
+        "column_6zwNty",
+        "column_iLQzyQ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_xWrYkd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_TgqtdF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/443A8282aquaedit4x5ps-aqua_20mpxCR.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TQpmhJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DEEPWATERS_443A9827edit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_m4TAGd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/443A0194edit4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fciDMN": {
+          "type": "column",
+          "settings": {
+            "title": "From the archive",
+            "text": "<p>Your favorite product has sold out? I can make you one last piece or one that is very similar to the original design, depending on the available material.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_TgqtdF",
+        "column_TQpmhJ",
+        "column_m4TAGd",
+        "column_fciDMN"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Looking forward to all your wishes and ideas",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_HXrTwm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6BwGHi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7302_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QKDxmp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2AFA738A-CC4D-4AFD-8FD9-238A0D48966E_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aYrmyy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/000030500014edit_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VPnVcg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3376_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_E9eif8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/57952CE4-A052-486E-B1F1-17F0A8C17C9D_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qqFfin": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_5777_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GzaYJ4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7948_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_D6Hhta": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7554_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FVpGxt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_7074_20mpx-4x5.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_6BwGHi",
+        "column_QKDxmp",
+        "column_aYrmyy",
+        "column_VPnVcg",
+        "column_E9eif8",
+        "column_qqFfin",
+        "column_GzaYJ4",
+        "column_D6Hhta",
+        "column_FVpGxt"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "multicolumn_izAEzF",
+    "main",
+    "slideshow_Yc4QFB",
+    "multicolumn_yrnVaz",
+    "multicolumn_H7GezD",
+    "multicolumn_xGhyLq",
+    "multicolumn_xWrYkd",
+    "form",
+    "multicolumn_HXrTwm"
+  ]
+}

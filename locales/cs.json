@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -13,7 +22,7 @@
     "social": {
       "alt_text": {
         "share_on_facebook": "Sdílet na Facebooku",
-        "share_on_twitter": "Sdílení přes X",
+        "share_on_twitter": "Sdílet na Twitteru",
         "share_on_pinterest": "Připnout na Pinterestu"
       },
       "links": {
@@ -91,7 +100,7 @@
       "message": "Komentář",
       "post": "Zveřejnit komentář",
       "back_to_blog": "Zpět na blog",
-      "share": "Nasdílet tento článek",
+      "share": "Sdílet tento článek",
       "success": "Váš komentář byl úspěšně publikován! Děkujeme!",
       "success_moderated": "Váš komentář byl úspěšně publikován. Zveřejníme jej až za chvíli, protože náš blog je moderován.",
       "comments": {
@@ -549,6 +558,22 @@
       "send_on_label": "Datum odeslání (volitelné)",
       "expanded": "Formulář pro příjemce dárkové karty se rozbalil.",
       "collapsed": "Formulář pro příjemce dárkové karty se sbalil."
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "general": {
+        "errors": {
+          "checkout_source": {
+            "revoked": "Tato pokladna již není k dispozici."
+          }
+        }
+      },
+      "redeemable_errors": {
+        "gift_card": {
+          "no_longer_available": "Tuto dárkovou kartu již nelze u této pokladny použít"
+        }
+      }
     }
   }
 }

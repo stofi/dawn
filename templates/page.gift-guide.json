@@ -1,0 +1,323 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_Yc4QFB": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_JHkNJi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/443A3156edit4x520mpx_6f8bd070-8f36-42c1-8017-7a5e9294f3ea.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_JHkNJi"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "featured_collection_r4ANJV": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "gifts-for-mum",
+        "products_to_show": 10,
+        "title": "For your mum",
+        "heading_size": "h1",
+        "description": "<p>The one who always says that she doesn’t want anything for Christmas but also says “Where did you get this? I want one too” whenever you show up in something stylish.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 5,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_fj6PM9": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "gifts-for-girlfriend",
+        "products_to_show": 10,
+        "title": "For your girlfriend",
+        "heading_size": "h1",
+        "description": "<p>She has been hinting at her wishlist all year, so it is time to turn her wishes into reality.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 5,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_tBVbdd": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "gifts-for-sister",
+        "products_to_show": 10,
+        "title": "For your sister",
+        "heading_size": "h1",
+        "description": "<p>Remember, you’re basically giving this to yourself, as you'll borrow it from her sooner or later.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 5,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_QijTMV": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "gifts-for-friend",
+        "products_to_show": 10,
+        "title": "For your friend",
+        "heading_size": "h1",
+        "description": "<p>For the one who sends you ten-minute-long voice messages; the one you've had since kindergarten; the friend you only communicate with by sending memes; or the friend you only see once a year, but it always feels like yesterday.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 5,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_cFhyXX": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "gifts-for-daughter",
+        "products_to_show": 10,
+        "title": "For your daughter",
+        "heading_size": "h1",
+        "description": "<p>She's either still young enough that you think you can have a say in what she wears, or she has her own amazing style with lots of things on her wish list, which you can shorten with one amazing piece of jewellery.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 5,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_Wr4N4N": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "gifts-for-man",
+        "products_to_show": 10,
+        "title": "For your man",
+        "heading_size": "h1",
+        "description": "<p>Who secretly peeks in your jewelry box from time to time but he’s still not sure what jewelry would suit him. Or he already knows and just wants more.</p>",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 5,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_8UyjQT": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "gifts-for-you",
+        "products_to_show": 10,
+        "title": "For yourself",
+        "heading_size": "h1",
+        "description": "<p>Cause while you at it, why not give something to yourself too? Besides, the year is coming to an end, and that alone means you deserve to be rewarded for making it this far so gracefully!</p><p>Go and treat yourselfl!</p>",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 5,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_hefDfk": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_trMLRh": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gifts-up-to-500-czk"
+          }
+        },
+        "featured_collection_aghkfB": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gifts-up-to-1000-czk"
+          }
+        },
+        "featured_collection_FxrHLC": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gifts-up-to-1500-czk"
+          }
+        },
+        "featured_collection_bLjb6J": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gifts-up-to-2000-czk"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_trMLRh",
+        "featured_collection_aghkfB",
+        "featured_collection_FxrHLC",
+        "featured_collection_bLjb6J"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Gifts for any budget",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Looking forward to all your wishes and ideas",
+        "heading_size": "h2",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "slideshow_Yc4QFB",
+    "featured_collection_r4ANJV",
+    "featured_collection_fj6PM9",
+    "featured_collection_tBVbdd",
+    "featured_collection_QijTMV",
+    "featured_collection_cFhyXX",
+    "featured_collection_Wr4N4N",
+    "featured_collection_8UyjQT",
+    "collection_list_hefDfk",
+    "form"
+  ]
+}

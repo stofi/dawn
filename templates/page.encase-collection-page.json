@@ -1,0 +1,561 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_Yc4QFB": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_JHkNJi": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/RECOVERY-443A8952editBW_4x5_20mpx.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        },
+        "slide_JabJeV": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_8564_20mpx16x9.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": ""
+          }
+        },
+        "slide_6qVpJb": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/DSC00593_edit_full-size_20mpx16x9.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "background-1"
+          }
+        },
+        "slide_tPpgDT": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/IMG_9827_20mpx16x9.jpg",
+            "image_overlay_opacity": 0,
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "show_text_box": false,
+            "box_align": "middle-center",
+            "text_alignment": "center",
+            "text_alignment_mobile": "center",
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "slide_JHkNJi",
+        "slide_JabJeV",
+        "slide_6qVpJb",
+        "slide_tPpgDT"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_yrnVaz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_E8kgAk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CASCADE_443A0014edit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kQbgAp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/RECOVERY_443A9843edit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DhGPPe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/TANOHOOPS_443A0076edit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xM34BT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/LOSTRAINNECKLACE_443A9850edit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_E8kgAk",
+        "column_kQbgAp",
+        "column_DhGPPe",
+        "column_xM34BT"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_izAEzF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_rfKeUA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/INDRA_443A9548EDIT_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LPiTcb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/LOST_RAIN_HOOPS_443A9167edit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_rfKeUA",
+        "column_LPiTcb"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_4WQRTL": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_nejMyN": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_PrxBwx": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_bqRr47": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nejMyN",
+        "text_PrxBwx",
+        "buttons_bqRr47"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/REMAINS443A9627EDIT_4x5_20mpx.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "multicolumn_HXrTwm": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_6BwGHi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/TERRA_443A9697edit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QKDxmp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/TERRA_1_pozadiedit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aYrmyy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/AFTERLIFE_443A9252edit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_6BwGHi",
+        "column_QKDxmp",
+        "column_aYrmyy"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_dYEe6V": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VGWnAT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CASCADE_443A1625editbw_4x5-20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TUAGEG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DEEP_WATERS_443A1414edit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_VGWnAT",
+        "column_TUAGEG"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_YY4C8m": {
+      "type": "collage",
+      "blocks": {
+        "image_xXBQt7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/443A1437bw_edit_4x5_4x5-20mpx.jpg"
+          }
+        },
+        "product_QMT4cz": {
+          "type": "product",
+          "settings": {
+            "product": "acheron-earrings",
+            "second_image": false
+          }
+        },
+        "product_wdkmGj": {
+          "type": "product",
+          "settings": {
+            "product": "tano-necklace",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "image_xXBQt7",
+        "product_QMT4cz",
+        "product_wdkmGj"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_H7GezD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fVtPMM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/443A9031edit_4x5_4x5-20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_GhVYmg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ALLAGIA_443A0009edit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_fVtPMM",
+        "column_GhVYmg"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_xGhyLq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4JtahG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ELEMENT_BRACELET_443A1196_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_crPMJQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/FOSIL443A0126edit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6zwNty": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/LOST_RAIN_443A1131edit_4x5_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4JtahG",
+        "column_crPMJQ",
+        "column_6zwNty"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_JzUyRd": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "encase",
+        "products_to_show": 4,
+        "title": "Explore the Encase collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_Yc4QFB",
+    "main",
+    "multicolumn_yrnVaz",
+    "multicolumn_izAEzF",
+    "image_banner_4WQRTL",
+    "multicolumn_HXrTwm",
+    "multicolumn_dYEe6V",
+    "collage_YY4C8m",
+    "multicolumn_H7GezD",
+    "multicolumn_xGhyLq",
+    "featured_collection_JzUyRd"
+  ]
+}

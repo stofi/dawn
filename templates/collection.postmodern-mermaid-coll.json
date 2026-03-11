@@ -1,0 +1,803 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "multirow_BjyhnG": {
+      "type": "multirow",
+      "blocks": {
+        "row_rty4Y8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/HERO-443A4502edit4x520mpx.jpg",
+            "caption": "",
+            "heading": "POSTMODERN MERMAID",
+            "text": "<h4>How would the story of The Little Mermaid be told today?</h4><h4>This Hans Christian Andersen's fairy tale was one of my favourites when I was a girl. More because I was fascinated by the underwater world, as a person born in a country without access to the sea could be, than because of the story of one-sided love and devotion. In fact, it was quite disturbing for me - why give up your whole life out of love for a person who never even considered you as a prospect for their love? Such a waste.</h4>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_Lc8FQ8": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/CARACOL-443A4628edit4x520mpx.jpg",
+            "caption": "",
+            "heading": "",
+            "text": "<h4>In the first chapter, the collection explores the beauty of various shells from second-hand and old collections of strangers, sometimes imperfect and broken, like a landscape with traces of the past lives of its original inhabitants. An empty shell as a metaphor for what is left of us when we are gone, what is left when the sea life dies. A box full of seashells from the summer holidays, forgotten forever somewhere in the back of the closet.</h4>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_pnqdFk": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/THE_CATCH-443A4324edit4x520mpx.jpg",
+            "caption": "",
+            "heading": "",
+            "text": "<h4>Working also with vintage beads and deadstock glass beads, the second part of the collection is inspired by happy memories of the sea, the children's joy in collecting all those strange and exciting shapes of shells and rocks on the beaches. And also the hope that all is not lost and that the future can be colourful again.</h4>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_b4xLMY": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/HERO443A4531modeledit4x5_220mpx.jpg",
+            "caption": "",
+            "heading": "",
+            "text": "<h4>So now, with rising sea levels, endangered marine ecosystems and pollution, I would like to see the Postmodern Mermaid and the prince as allies, fighting together to save underwater life. </h4>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_rty4Y8",
+        "row_Lc8FQ8",
+        "row_pnqdFk",
+        "row_b4xLMY"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "image_layout": "alternate-left",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
+    "image_banner_zVCgyj": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_yJi4ci": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_WAtTjq": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_TrVki7": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yJi4ci",
+        "text_WAtTjq",
+        "buttons_TrVki7"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/SEDNA-443A4717edit3x220mpx.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "multicolumn_gKLteR": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bxLNga": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/POSEIDON-443A4379edit4x520mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_4DtEmJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SKELETONNECKLACE-443A7369edit-4x5-20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BV6Ujw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DEAD_CORAL_HOOPS-443A4032model-edit4x520mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_bxLNga",
+        "column_4DtEmJ",
+        "column_BV6Ujw"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
+    "image_with_text_G9UHtW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_depQXB": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Shell",
+            "heading_size": "h2"
+          }
+        },
+        "text_pNmfax": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>I see it                                  </h4><h4>as a landscape.                                 </h4><h4>I observe it                              </h4><h4>as a landscape.                                                    </h4><h4>I explore it                                      </h4><h4>as a landscape.</h4>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_NqMnwQ": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_depQXB",
+        "text_pNmfax",
+        "button_NqMnwQ"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/SIRENE443A4170edit3x220mpx.jpg",
+        "height": "small",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "background-1",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_gRkkVb": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UCUEw7": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_iJQKhb": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_kiTdrK": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_UCUEw7",
+        "text_iJQKhb",
+        "buttons_kiTdrK"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/NYMPH-443A4466edit1x120mpx.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "image_with_text_jX874F": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6jHC44": {
+          "type": "heading",
+          "settings": {
+            "heading": "What do you see",
+            "heading_size": "h2"
+          }
+        },
+        "text_LntTfr": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>When you see</h4><h4>a damaged shell?</h4><h4>I often wonder</h4><h4>what life it had.</h4>",
+            "text_style": "body"
+          }
+        },
+        "button_teUJaD": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6jHC44",
+        "text_LntTfr",
+        "button_teUJaD"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/SKELETONHOOPS-443A7363edit-4x5-20mpx.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_i4Qr6T": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_bhfYhp": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_yEgyrW": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "the shell I see it",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "buttons_beMRKd": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_bhfYhp",
+        "text_yEgyrW",
+        "buttons_beMRKd"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/HYDRA-443A4733edit3x220mpx.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-right",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "multicolumn_VqeLKT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_qMEQti": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SUNGLASSES443A3835edit24x5prod_zoom20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_x9h86t": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MARISCO-443A7267edit-4x5-20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_wpBeJ6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DEAD_CORAL_HOOPS443A4075edit4x5prod_zoom20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_qMEQti",
+        "column_x9h86t",
+        "column_wpBeJ6"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_WyX86j": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EPAVfC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/UNDERWATER-443A7306edit-4x5-20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ag3qWm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DEAD_CORAL-443A3712EDIT4x5prod_zoom20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EPAVfC",
+        "column_ag3qWm"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collage_igCLJC": {
+      "type": "collage",
+      "blocks": {
+        "image_rUKQUW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/NEREUS-443A46784x520mpx.jpg"
+          }
+        },
+        "product_LNJMdC": {
+          "type": "product",
+          "settings": {
+            "product": "dead-coral-hoops",
+            "second_image": false
+          }
+        },
+        "image_pyrfgr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/POWER443A4250edit14x5prod_zoom20mpx.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_rUKQUW",
+        "product_LNJMdC",
+        "image_pyrfgr"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "none",
+        "color_scheme": "",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 8,
+        "columns_desktop": 4,
+        "columns_mobile": "2",
+        "color_scheme": "scheme-9b95b756-2ddf-4b8f-8bbd-d21f924ae9cc",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "image_banner_EUp8At": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_G4yVWY": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_hkB48Q": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_H9BHKM": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "EXPLORE ALL DESIGNS",
+            "button_link_1": "shopify://collections/postmodern-mermaid-1",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_G4yVWY",
+        "text_hkB48Q",
+        "buttons_H9BHKM"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/THE_CATCH-443A4324edit3x220mpx.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "top-right",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "scheme-12c7947e-bcc7-4637-92c2-39209de7d4f9",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
+    },
+    "multicolumn_6eQ4WE": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_YJgzUj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MG_9573edit4x5_kaaret_val_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_iiUBxp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MG_9573edit4x5_kaaret_val_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CY4LMg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/MG_9572edit4x5_kaaret_val_20mpx.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DHARTt": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_WLfekx": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7Um43t": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_chBYiX": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QAeeEg": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_YJgzUj",
+        "column_iiUBxp",
+        "column_CY4LMg",
+        "column_DHARTt",
+        "column_WLfekx",
+        "column_7Um43t",
+        "column_chBYiX",
+        "column_QAeeEg"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "scheme-68dbd782-0741-4ad4-8094-b4489aa41a16",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_aiXtFG": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "",
+        "products_to_show": 4,
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_e7cWx6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pWcjHi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_P86cRr": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_z9qetQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pWcjHi",
+        "text_P86cRr",
+        "button_z9qetQ"
+      ],
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "scheme-9b95b756-2ddf-4b8f-8bbd-d21f924ae9cc"
+      }
+    }
+  },
+  "order": [
+    "multirow_BjyhnG",
+    "image_banner_zVCgyj",
+    "multicolumn_gKLteR",
+    "image_with_text_G9UHtW",
+    "image_banner_gRkkVb",
+    "image_with_text_jX874F",
+    "image_banner_i4Qr6T",
+    "multicolumn_VqeLKT",
+    "multicolumn_WyX86j",
+    "collage_igCLJC",
+    "product-grid",
+    "image_banner_EUp8At",
+    "multicolumn_6eQ4WE",
+    "featured_collection_aiXtFG",
+    "rich_text_e7cWx6",
+    "banner"
+  ]
+}

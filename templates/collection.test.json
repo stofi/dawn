@@ -23,7 +23,7 @@
         "column_YJgzUj": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/443A3710editkopie_2__web_org4mb_edit_web20mpx.jpg",
+            "image": "shopify://shop_images/MG_9237edit1x1_kaaret_val_20mpx.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -56,18 +56,17 @@
         "column_iiUBxp",
         "column_CY4LMg"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "button_label": "",
         "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "color_scheme": "scheme-9b95b756-2ddf-4b8f-8bbd-d21f924ae9cc",
+        "color_scheme": "scheme-68dbd782-0741-4ad4-8094-b4489aa41a16",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -76,6 +75,7 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 16,
         "columns_desktop": 4,
@@ -92,22 +92,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "custom_liquid_ATyiFr": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "banner",
     "multicolumn_6eQ4WE",
-    "product-grid",
-    "custom_liquid_ATyiFr"
+    "product-grid"
   ]
 }
