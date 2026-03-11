@@ -81,6 +81,11 @@
   text-align: center;
 }
 
+.image-gallery__button {
+  text-align: center;
+  margin-top: 2rem;
+}
+
 /* Lightbox - base */
 
 .image-gallery-lightbox {

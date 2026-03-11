@@ -76,6 +76,19 @@
         {%- endfor -%}
       </ul>
 
+      {%- if section.settings.button_label != blank -%}
+        <div class="image-gallery__button">
+          <button
+            type="button"
+            class="button button--secondary"
+            data-lightbox-target="#ImageGalleryLightbox-{{ section.id }}"
+            data-lightbox-index="0"
+          >
+            {{ section.settings.button_label | escape }}
+          </button>
+        </div>
+      {%- endif -%}
+
       {%- comment -%} Lightbox {%- endcomment -%}
       <image-gallery-lightbox id="ImageGalleryLightbox-{{ section.id }}" class="image-gallery-lightbox">
         <div class="image-gallery-lightbox__overlay"></div>
@@ -169,6 +182,12 @@
       "label": "Images to show in grid",
       "info": "0 shows all. The rest are only visible in the lightbox.",
       "default": 0
+    },
+    {
+      "type": "text",
+      "id": "button_label",
+      "label": "Button label",
+      "info": "Leave blank to hide the button."
     },
     {
       "type": "select",
